@@ -1,0 +1,2 @@
+- An undergraduate student studying bioinformatics at Huazhong University of Science and Technology (HUST)
+- Learning Python, R and front-end technology
